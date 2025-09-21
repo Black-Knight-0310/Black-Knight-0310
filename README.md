@@ -21,4 +21,4 @@ I'm a passionate developer specializing in **Web Development** and **Open Source
 ## 🌟 Featured Projects
 ### [Project 1](https://github.com/yourusername/project1)
 ![Project 1 GIF](https://media.giphy.com/media/3o6Zt8lL9M0Zt0iP0o/giphy.gif)
-A brief
+
